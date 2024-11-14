@@ -1,0 +1,15 @@
+.jh-banner {
+    color: black;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px black;
+    display: flex;
+    flex: 2 1;
+    justify-content: flex-end;
+    align-items: center;
+}
+.jh-logo{
+    width:5rem;
+    height: 5rem;
+    margin-right: 3rem;
+}
