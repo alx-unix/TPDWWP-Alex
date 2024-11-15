@@ -1,3 +1,5 @@
+import monstera from '../assets/monstera.jpg'
+
 const plantList = [
 	{
 		name: 'monstera',
@@ -6,7 +8,8 @@ const plantList = [
 		isBestSale:true,
 		isSpecialOffer:true,
 		water:1,
-		light:1
+		light:1,
+		cover:monstera
 	},
 	{
 		name: 'ficus lyrata',
@@ -15,7 +18,8 @@ const plantList = [
 		isBestSale:true,
 		isSpecialOffer:false,
 		water:1,
-		light:3
+		light:3,
+		cover:monstera
 	},
 	{
 		name: 'silver pothos',
@@ -24,7 +28,8 @@ const plantList = [
 		isBestSale:false,
 		isSpecialOffer:false,
 		water:2,
-		light:3
+		light:3,
+		cover:monstera
 	},
 	{
 		name: 'yucca',
@@ -33,7 +38,8 @@ const plantList = [
 		isBestSale:true,
 		isSpecialOffer:true,
 		water:2,
-		light:1
+		light:1,
+		cover:monstera
 	},
 	{
 		name: 'olive tree',
@@ -42,7 +48,8 @@ const plantList = [
 		isBestSale:false,
 		isSpecialOffer:false,
 		water:1,
-		light:2
+		light:2,
+		cover:monstera
 	},
 	{
 		name: 'geranium',
@@ -51,7 +58,8 @@ const plantList = [
 		isBestSale:true,
 		isSpecialOffer:true,
 		water:3,
-		light:1
+		light:1,
+		cover:monstera
 	},
 	{
 		name: 'basil',
@@ -60,7 +68,8 @@ const plantList = [
 		isBestSale:false,
 		isSpecialOffer:false,
 		water:3,
-		light:2
+		light:2,
+		cover:monstera
 	},
 	{
 		name: 'aloe',
@@ -69,7 +78,8 @@ const plantList = [
 		isBestSale:true,
 		isSpecialOffer:true,
 		water:2,
-		light:2
+		light:2,
+		cover:monstera
 	},
 	{
 		name: 'succulent',
@@ -78,7 +88,8 @@ const plantList = [
 		isBestSale:false,
 		isSpecialOffer:false,
 		water:1,
-		light:3
+		light:3,
+		cover:monstera
 	}
 ]
 
